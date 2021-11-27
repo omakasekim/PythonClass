@@ -1,0 +1,3 @@
+import myCalc
+
+myCalc.calculator()
