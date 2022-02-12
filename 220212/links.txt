@@ -1,0 +1,4 @@
+https://search.naver.com/search.naver?sm=tab_hty.top&where=nexearch&query=
+
+
+('#main_pack > section.sc_new.sp_pmusic._au_music_collection._prs_mus_1st > div > div.group_music > ul > li:nth-child(1) > div.music_btn._lyrics_wrap > div > div.lyrics_txt._lyrics_txt')
