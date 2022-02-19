@@ -10,3 +10,13 @@ plt.rcParams['axes.unicode_minus']=False
 plt.rcParams['font.family']='Malgun Gothic'
 plt.rcParams['font.size']= 7
 plt.show()
+
+
+#here
+plt.rcParams['font.family'] = 'AppleGothic'
+
+plt.plot(df2['소득'],df2['평균(분)'])
+plt.rcParams['axes.unicode_minus']=False
+plt.rcParams['font.family']='Malgun Gothic'
+plt.rcParams['font.size']= 7
+plt.show()
